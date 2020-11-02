@@ -24,7 +24,7 @@ symbol execution
 Select an area
 
 
-![image](GIF/1.png)
+![image](GIF/2.png)
 
 
 **2.Second step**
@@ -33,7 +33,7 @@ Select an area
 Click the symbol_exec
 
 
-![image](GIF/2.png)
+![image](GIF/1.png)
 
 **3.result**
 
