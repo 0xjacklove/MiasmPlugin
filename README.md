@@ -18,20 +18,26 @@ For example:
 symbol execution
 
 
-**1.First step
+**1.First step**
 
 
 Select an area
 
 
 ![image](GIF/1.png)
-**2.Second step
+
+
+**2.Second step**
 
 
 Click the symbol_exec
 
 
 ![image](GIF/2.png)
+
+**3.result**
+
+![image](GIF/3.png)
 
 Origin
 =======
