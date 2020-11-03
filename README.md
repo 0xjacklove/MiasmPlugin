@@ -14,6 +14,9 @@ USAGE
 
 For example:
 
+*********************************
+**IDA 7.0 versoin**
+********************************
 
 symbol execution
 
@@ -30,7 +33,9 @@ Select an area
 **2.Second step**
 
 
-Click the symbol_exec
+1) Click the "Python Miasm Plugin" in the plugin
+
+2) Click the symbol_exec
 
 
 ![image](GIF/1.png)
@@ -38,6 +43,15 @@ Click the symbol_exec
 **3.result**
 
 ![image](GIF/3.png)
+
+********************************
+**Greater than IDA 7.0 versoin**
+********************************
+
+![image](GIF/4.png)
+
+All the options are here
+
 
 Origin
 =======
