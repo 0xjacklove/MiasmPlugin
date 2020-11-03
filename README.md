@@ -14,11 +14,14 @@ USAGE
 
 For example:
 
-*********************************
-**IDA 7.0 versoin**
-********************************
 
 symbol execution
+
+
+![image](GIF/4.png)
+
+
+All the options are here
 
 
 **1.First step**
@@ -33,24 +36,13 @@ Select an area
 **2.Second step**
 
 
-1) Click the "Python Miasm Plugin" in the plugin
+1) Press the F3 key
 
-2) Click the symbol_exec
-
-
-![image](GIF/1.png)
 
 **3.result**
 
+
 ![image](GIF/3.png)
-
-********************************
-**Greater than IDA 7.0 versoin**
-********************************
-
-![image](GIF/4.png)
-
-All the options are here
 
 
 Origin
