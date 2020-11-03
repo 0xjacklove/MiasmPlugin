@@ -16,7 +16,7 @@ def ask_desired_maturity():
 			form = ("STARTITEM {id:mat_lvl}\n"
 				"%s\n"
 				" \n"
-				"<Maturity level:{mat_lvl}>\n\n"
+				"<Select:{mat_lvl}>\n\n"
 				"<##Options##Output includes comments:{flags_short}>{chkgroup_flags}>\n\n" %
 				self.title)
 
